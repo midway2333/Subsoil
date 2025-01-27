@@ -44,9 +44,9 @@ cd tkintertools
 git checkout 3.0.0rc6
 # 切换版本
 
-pip install tkhtmlview==0.1.5.2      # HTML渲染组件
-pip install markdown==3.6            # Markdown解析
-pip install requests==2.32.3         # 网络请求库
+pip install tkhtmlview          # HTML渲染组件
+pip install markdown            # Markdown解析
+pip install requests            # 网络请求库
 ```
 更好的方法是直接使用subsoil安装开发版本套件再clone`tkintertools(maliang)`<br>
 ~~完美的生态闭环~~
