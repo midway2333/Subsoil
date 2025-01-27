@@ -71,14 +71,14 @@ pip install requests==2.32.3         # 网络请求库
 
 ### 源代码
 - **许可证**: [CC0](https://creativecommons.org/public-domain/cc0/)
-![subsoil](img/cc0.png)<br>
+- ![subsoil](img/cc0.png)<br>
 - **您可以**：
   - 自由地复制、修改、分发和执行作品
   - 无需署名，无需保留版权声明
 
 ### 打包文件与文档
 - **许可证**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)
-![ccbyncsa4.0](img/by-nc-sa.png)<br>
+- ![ccbyncsa4.0](img/by-nc-sa.png)<br>
 - **您可以**：
   - 共享：复制和重新分发材料
   - 改编：修改、转换和基于材料创作
