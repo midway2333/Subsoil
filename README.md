@@ -71,12 +71,14 @@ pip install requests==2.32.3         # 网络请求库
 
 ### 源代码
 - **许可证**: [CC0](https://creativecommons.org/public-domain/cc0/)
+![subsoil](img/cc0.png)<br>
 - **您可以**：
   - 自由地复制、修改、分发和执行作品
   - 无需署名，无需保留版权声明
 
 ### 打包文件与文档
 - **许可证**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)
+![ccbyncsa4.0](img/by-nc-sa.png)<br>
 - **您可以**：
   - 共享：复制和重新分发材料
   - 改编：修改、转换和基于材料创作
@@ -91,8 +93,8 @@ pip install requests==2.32.3         # 网络请求库
 
 ## 注意事项
 - **源码与打包文件的区别**：
-  - 源码部分（如 `.py` 文件）完全自由，适用 **CC0**
-  - 打包文件（如 `.exe`、`.zip`）和文档（如 `.md`、`.png`）适用 **CC BY-NC-SA 4.0**
+  - 源码部分(如 `.py` 文件)完全自由，适用 **CC0**
+  - 打包文件(如 `.exe`、`.zip`)和文档(如 `.md`、`.png`，不包括两张cc协议图片)适用 **CC BY-NC-SA 4.0**
 - **衍生作品**：
   - 基于源码的衍生作品可以自由选择许可协议
   - 基于打包文件或文档的衍生作品必须遵循 **CC BY-NC-SA 4.0**
