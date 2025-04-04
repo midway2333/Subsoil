@@ -90,6 +90,9 @@ pip install requests            # 网络请求库
 
 ### 问题与贡献
 - **问题反馈**: [提交Issue](https://github.com/midway2333/subsoil/issues)
+- **已知问题**
+  - 部分杀毒软件误报
+  - 电脑证书过期时无法下载 
 
 ## 注意事项
 - **源码与打包文件的区别**：
